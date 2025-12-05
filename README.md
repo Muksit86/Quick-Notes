@@ -32,3 +32,20 @@ Follow the steps below to run the project locally.
 
 ```bash
 git clone https://github.com/Muksit86/Quick-Notes.git
+
+
+```bash
+cd Quick-Notes/Client
+
+
+```bash
+npm install
+
+
+```bash
+npm run dev
+
+
+```bash
+npm run dev
+
